@@ -1,0 +1,16 @@
+E:\GHJ\7-3-15\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.dll
+E:\GHJ\7-3-15\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.pdb
+E:\GHJ\7-3-15\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.dll
+E:\GHJ\7-3-15\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.pdb
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.dll
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.pdb
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.csproj.AssemblyReference.cache
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.csproj.CoreCompileInputs.cache
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.dll
+C:\Users\thalwai\Downloads\3T_Arcitecture\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.pdb
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.dll
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\bin\3T_Arcitecture.pdb
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.csproj.AssemblyReference.cache
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.csproj.CoreCompileInputs.cache
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.dll
+C:\Users\thalwai\source\repos\3T_Arcitecture\3T_Arcitecture\obj\Debug\3T_Arcitecture.pdb

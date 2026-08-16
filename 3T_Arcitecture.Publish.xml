@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://www.tulsi.somee.com/www.tulsi.somee.com" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="tulsi6921" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/arw.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/responsive-nav.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Styles/Site.css" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="images/admi-1.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/logo.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/pc-1.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Global.asax" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="Site.Master" publishTime="04/01/2015 14:00:45" />
+    <file relUrl="about.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/jquery.contentcarousel.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/education.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/admi-3.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/contact-sprit.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="bin/3T_Arcitecture.dll" publishTime="04/01/2015 13:59:29" />
+    <file relUrl="images/st-4.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-4.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-5.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="bin/3T_Arcitecture.pdb" publishTime="04/01/2015 13:59:29" />
+    <file relUrl="js/responsiveslides.min.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-1.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="index.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Account/Web.config" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="Account/Register.aspx" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="contact.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/st-1.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Account/Login.aspx" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="js/jquery.mousewheel.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/jquery.mixitup.min.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-3.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-6.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="courses.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/pc-2.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="images/p-7.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="css/bootstrap.css" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/jquery.wmuSlider.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/easing.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-2.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/menu-icon.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/admi-2.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="images/arrows.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/arws.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/jquery.min.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="03/11/2015 12:25:48" />
+    <file relUrl="Web.config" publishTime="04/01/2015 14:05:20" />
+    <file relUrl="images/top.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="js/move-top.js" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="academics.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/st-2.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="admissions.html" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/footer-sprit.png" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="css/style.css" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/banner.jpg" publishTime="04/01/2015 13:58:37" />
+    <file relUrl="images/p-8.jpg" publishTime="04/01/2015 13:58:37" />
+  </publishProfile>
+</publishData>
